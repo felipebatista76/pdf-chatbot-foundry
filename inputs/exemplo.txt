@@ -1,1 +1,5 @@
-A inteligência artificial está transformando a maneira como processamos textos. Este é um exemplo de conteúdo para o chatbot responder.
+A inteligência artificial tem revolucionado o campo da engenharia de software.
+Modelos de linguagem são capazes de compreender e gerar texto com alta precisão.
+A busca vetorial permite encontrar informações com base em similaridade semântica.
+O uso de embeddings transforma textos em vetores numéricos para análise.
+Técnicas de RAG combinam recuperação de dados com geração de linguagem natural.
