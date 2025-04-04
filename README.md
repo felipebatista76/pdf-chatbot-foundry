@@ -50,14 +50,8 @@ Este projeto foi idealizado pensando em como a IA pode ser usada para facilitar 
 
 ## 📎 Prints do processo
 
-### 1. Upload do documento de entrada na Foundry
-![Print 1](screenshots/print1.png)
 
-### 2. Configuração do fluxo de orquestração
-![Print 2](screenshots/print2.png)
-
-### 3. Geração das respostas baseadas nos PDFs
-![Print 3](screenshots/print3.png)
+![print](https://github.com/user-attachments/assets/7f5beb4a-22b3-4069-a550-c9ad7afd03cf)
 
 ---
 
