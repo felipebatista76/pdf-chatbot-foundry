@@ -1,5 +1,13 @@
-A inteligência artificial tem revolucionado o campo da engenharia de software.
-Modelos de linguagem são capazes de compreender e gerar texto com alta precisão.
-A busca vetorial permite encontrar informações com base em similaridade semântica.
-O uso de embeddings transforma textos em vetores numéricos para análise.
-Técnicas de RAG combinam recuperação de dados com geração de linguagem natural.
+A inteligência artificial generativa pode auxiliar pesquisadores na escrita acadêmica, oferecendo sugestões de reformulação de frases e melhorando a clareza dos textos.
+
+Modelos de IA como o ChatGPT podem ser utilizados para resumir artigos científicos, economizando tempo na revisão da literatura.
+
+Técnicas de busca vetorial permitem encontrar informações relevantes em grandes volumes de textos acadêmicos de forma mais eficiente.
+
+O uso de embeddings semânticos ajuda a identificar padrões e conexões entre diferentes artigos, facilitando a descoberta de novas referências.
+
+A IA generativa pode ser aplicada na geração automática de resumos estruturados para facilitar a leitura e compreensão de documentos complexos.
+
+Ferramentas baseadas em IA podem auxiliar na formatação de citações e referências bibliográficas, reduzindo erros manuais.
+
+Pesquisadores precisam estar atentos à confiabilidade das informações geradas pela IA, validando os conteúdos antes de utilizá-los em publicações científicas.
