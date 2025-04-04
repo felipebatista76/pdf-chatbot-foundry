@@ -39,10 +39,6 @@ Este projeto foi idealizado pensando em como a IA pode ser usada para facilitar 
 📁 pdf-chatbot-foundry/
 ├── 📁 inputs/
 │   └── tcc.txt
-├── 📸 screenshots/
-│   └── print1.png
-│   └── print2.png
-│   └── print3.png
 ├── README.md
 ```
 
